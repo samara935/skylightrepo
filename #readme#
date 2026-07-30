@@ -1,0 +1,12 @@
+this is a project on modifying a daylightin skylight to be optimal for santa fe new mexico with the same functionality.
+
+the main data was gathered using climate information from airports and archetectural studies to aproximate the differing conditions between portland oregon, where the original design was made, and Santa Fe in order to modify the design. this study also resulted in a more generalizable design for other climate conditions.
+
+the models are devided into before and after the modifications, the skylight design file is the first itteration while the final skylight is the final design with all the modifications. 
+
+the models in this project are run through FreeCAD, to open he models please install FreeCAD by downloading the appimage at www.freecad.org and paste the files into a new file in freeCAD.
+in your terminal after downloading the image type:
+./FreeCAD_1.1.1-Linux-x86_64-py311.AppImage
+chmod +x FreeCAD_1.1.1-Linux-x86_64-py311.AppImage
+./FreeCAD_1.1.1-Linux-x86_64-py311.AppImage
+
